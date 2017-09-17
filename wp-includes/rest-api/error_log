@@ -1,0 +1,1 @@
+[17-Sep-2017 03:55:52 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/orientaltimes/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

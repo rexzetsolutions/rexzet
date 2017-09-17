@@ -1,0 +1,14 @@
+[17-Sep-2017 03:52:15 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[17-Sep-2017 03:52:17 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[17-Sep-2017 03:52:18 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[17-Sep-2017 03:52:19 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[17-Sep-2017 03:52:20 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[17-Sep-2017 03:52:21 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[17-Sep-2017 03:52:22 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[17-Sep-2017 03:52:23 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[17-Sep-2017 03:52:24 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[17-Sep-2017 03:52:25 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[17-Sep-2017 03:52:26 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[17-Sep-2017 03:52:27 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[17-Sep-2017 03:52:28 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[17-Sep-2017 03:52:29 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/orientaltimes/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19

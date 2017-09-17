@@ -1,0 +1,10 @@
+[17-Sep-2017 04:01:20 UTC] PHP Fatal error:  Class 'WP_REST_Posts_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[17-Sep-2017 04:01:22 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[17-Sep-2017 04:01:23 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[17-Sep-2017 04:01:25 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[17-Sep-2017 04:01:26 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[17-Sep-2017 04:01:27 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[17-Sep-2017 04:01:28 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[17-Sep-2017 04:01:29 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[17-Sep-2017 04:01:30 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[17-Sep-2017 04:01:31 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/orientaltimes/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17

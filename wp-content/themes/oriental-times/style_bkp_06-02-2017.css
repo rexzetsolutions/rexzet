@@ -1,0 +1,32 @@
+/*
+Theme Name:     Oriental Times
+Description:    Custom Theme for oriental times
+Author:         AMANi Art
+Template:       themyranda
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+.mysidebar2 .widgettitle{
+	text-transform: uppercase;
+    font-size: 1em;
+    border-bottom: 2px solid orangered;
+    padding-bottom: 8px;
+    list-style: none;
+}
+.vc_custom_heading{
+	border-bottom: 2px solid #f00;
+    padding-bottom: 5px;
+}
+.widget {
+    list-style: none;
+}
+
+.ultimate-layouts-container .ultimate-layouts-picture .ultimate-layouts-picture-wrap>a img {
+	max-height:174px !important;
+}
+.large-3 col #secondary{
+	position:fixed !important;
+	top:50px!important;
+}
+
+.ultimate-layouts-container h3.ultimate-layouts-title a {font-size: 14px!important;height: 75px!important;}

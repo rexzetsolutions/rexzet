@@ -1,0 +1,4 @@
+[17-Sep-2017 04:01:35 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/orientaltimes/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[17-Sep-2017 04:01:37 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/orientaltimes/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[17-Sep-2017 04:01:39 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/orientaltimes/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[17-Sep-2017 04:01:40 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/orientaltimes/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
